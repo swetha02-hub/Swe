@@ -1,0 +1,8 @@
+input{
+    text-align: center;
+    margin-left: 560px;
+    background-color: rgb(216, 224, 224);
+}
+div{
+    min-height: 100vh;
+}
